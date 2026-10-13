@@ -3,9 +3,9 @@
   <g>
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
-    <!-- Left: T-shaped neutral slot (vertical bar + horizontal foot pointing toward center/right) -->
+    <!-- Left: T-shaped neutral slot with horizontal bar centered vertically -->
     <rect x="198.0" y="144.0" width="16.0" height="58.0" rx="7.0" fill="#111"/>
-    <rect x="198.0" y="144.0" width="40.0" height="16.0" rx="7.0" fill="#111"/>
+    <rect x="198.0" y="164.0" width="40.0" height="16.0" rx="7.0" fill="#111"/>
     <!-- Right: straight vertical hot slot -->
     <rect x="290.0" y="144.0" width="16.0" height="58.0" rx="7.0" fill="#111"/>
     <!-- D-shaped ground (flat top, rounded bottom) -->
