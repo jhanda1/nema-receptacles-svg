@@ -3,10 +3,10 @@
   <g>
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
-    <path d="M 188.0 144.1 A 82.0 82.0 0 0 1 241.8 109.2 L 244.5 125.0 A 66.0 66.0 0 0 0 201.3 153.1 Z" fill="#111"/>
-    <path d="M 329.7 154.1 A 82.0 82.0 0 0 1 333.1 218.0 L 318.0 212.6 A 66.0 66.0 0 0 0 315.3 161.1 Z" fill="#111"/>
-    <path d="M 250.3 271.8 A 82.0 82.0 0 0 1 193.2 242.7 L 205.4 232.4 A 66.0 66.0 0 0 0 251.4 255.8 Z" fill="#111"/>
-    <rect x="246.0" y="240.0" width="20.0" height="48.0" rx="7.0" fill="#111"/>
+    <path d="M 240 112 L 270 112 L 270 126 L 260 126 L 260 148 L 250 148 L 250 126 L 240 126 Z" fill="#111"/>
+    <path d="M 296 145 L 320 166 L 310 176 L 303 170 L 291 184 L 281 175 L 293 161 L 287 155 Z" fill="#111"/>
+    <path d="M 198 146 L 223 125 L 233 135 L 226 141 L 239 156 L 228 165 L 217 152 L 210 158 Z" fill="#111"/>
+    <path d="M 241 229 L 271 229 L 271 243 L 262 243 L 262 265 L 252 265 L 252 243 L 241 243 Z" fill="#111"/>
   </g>
   <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA L14-50R</text>
 </svg>

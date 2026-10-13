@@ -3,12 +3,12 @@
   <g>
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
-    <path d="M 185.6 146.0 A 83.0 83.0 0 0 1 222.2 114.2 L 227.9 127.0 A 69.0 69.0 0 0 0 197.5 153.4 Z" fill="#111"/>
-    <path d="M 276.1 109.5 A 83.0 83.0 0 0 1 317.7 134.5 L 307.3 143.8 A 69.0 69.0 0 0 0 272.7 123.0 Z" fill="#111"/>
-    <path d="M 338.8 184.2 A 83.0 83.0 0 0 1 327.9 231.5 L 315.8 224.5 A 69.0 69.0 0 0 0 324.8 185.2 Z" fill="#111"/>
-    <path d="M 287.1 267.0 A 83.0 83.0 0 0 1 238.7 271.2 L 241.7 257.5 A 69.0 69.0 0 0 0 281.8 254.0 Z" fill="#111"/>
-    <rect x="246.0" y="222.0" width="16.0" height="48.0" rx="7.0" fill="#111"/>
-    <rect x="252.0" y="254.0" width="32.0" height="16.0" rx="7.0" fill="#111"/>
+    <path d="M 241 112 L 271 112 L 271 126 L 262 126 L 262 147 L 252 147 L 252 126 L 241 126 Z" fill="#111"/>
+    <path d="M 194 151 L 218 131 L 228 141 L 221 147 L 234 163 L 223 172 L 212 158 L 205 164 Z" fill="#111"/>
+    <path d="M 298 151 L 320 171 L 311 181 L 304 175 L 291 191 L 281 182 L 293 168 L 287 162 Z" fill="#111"/>
+    <path d="M 242 234 L 272 234 L 272 248 L 263 248 L 263 270 L 253 270 L 253 248 L 242 248 Z" fill="#111"/>
+    <circle cx="256" cy="190" r="11" fill="#111"/>
+    <rect x="252" y="190" width="8" height="17" fill="#111"/>
   </g>
   <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA L21-30R</text>
 </svg>

@@ -3,11 +3,10 @@
   <g>
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
-    <path d="M 192.2 146.9 A 77.0 77.0 0 0 1 237.4 115.3 L 240.8 128.9 A 63.0 63.0 0 0 0 203.8 154.8 Z" fill="#111"/>
-    <path d="M 318.3 144.7 A 77.0 77.0 0 0 1 332.6 198.0 L 318.7 196.6 A 63.0 63.0 0 0 0 307.0 153.0 Z" fill="#111"/>
-    <path d="M 250.6 266.8 A 77.0 77.0 0 0 1 200.6 243.5 L 210.7 233.8 A 63.0 63.0 0 0 0 251.6 252.8 Z" fill="#111"/>
-    <rect x="238.0" y="224.0" width="16.0" height="48.0" rx="7.0" fill="#111"/>
-    <rect x="244.0" y="256.0" width="32.0" height="16.0" rx="7.0" fill="#111"/>
+    <path d="M 242 114 L 268 114 L 268 126 L 260 126 L 260 146 L 252 146 L 252 126 L 242 126 Z" fill="#111"/>
+    <path d="M 295 147 L 314 165 L 305 174 L 300 169 L 289 182 L 280 174 L 291 161 L 286 156 Z" fill="#111"/>
+    <path d="M 203 149 L 223 132 L 231 141 L 224 147 L 236 161 L 227 168 L 216 155 L 210 160 Z" fill="#111"/>
+    <path d="M 244 231 L 268 231 L 268 243 L 260 243 L 260 262 L 252 262 L 252 243 L 244 243 Z" fill="#111"/>
   </g>
   <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA L14-30R</text>
 </svg>

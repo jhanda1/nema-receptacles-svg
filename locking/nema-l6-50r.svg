@@ -3,9 +3,9 @@
   <g>
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
-    <path d="M 189.7 141.8 A 82.0 82.0 0 0 1 250.3 108.2 L 251.4 124.2 A 66.0 66.0 0 0 0 202.6 151.2 Z" fill="#111"/>
-    <path d="M 330.9 156.6 A 82.0 82.0 0 0 1 329.7 225.9 L 315.3 218.9 A 66.0 66.0 0 0 0 316.3 163.2 Z" fill="#111"/>
-    <path d="M 247.4 271.6 A 82.0 82.0 0 0 1 188.0 235.9 L 201.3 226.9 A 66.0 66.0 0 0 0 249.1 255.6 Z" fill="#111"/>
+    <path d="M 200 139 L 226 129 L 230 140 L 221 143 L 227 160 L 215 164 L 209 148 L 201 151 Z" fill="#111"/>
+    <path d="M 287 128 L 313 138 L 309 149 L 301 146 L 294 164 L 283 160 L 289 144 L 283 142 Z" fill="#111"/>
+    <path d="M 244 230 L 268 230 L 268 244 L 260 244 L 260 263 L 252 263 L 252 244 L 244 244 Z" fill="#111"/>
   </g>
   <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA L6-50R</text>
 </svg>
