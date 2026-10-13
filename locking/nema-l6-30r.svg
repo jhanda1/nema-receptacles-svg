@@ -3,9 +3,10 @@
   <g>
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
-    <path d="M 202.5 134.6 A 77.0 77.0 0 0 1 258.7 113.0 L 258.2 127.0 A 63.0 63.0 0 0 0 212.2 144.7 Z" fill="#111"/>
-    <path d="M 330.7 171.4 A 77.0 77.0 0 0 1 321.3 230.8 L 309.4 223.4 A 63.0 63.0 0 0 0 317.1 174.8 Z" fill="#111"/>
-    <path d="M 234.8 264.0 A 77.0 77.0 0 0 1 188.0 226.1 L 200.4 219.6 A 63.0 63.0 0 0 0 238.6 250.6 Z" fill="#111"/>
+
+    <path d="M 216 119 L 254 119 L 254 133 L 236 133 L 236 170 L 220 170 Z" fill="#111" transform="rotate(-26 256 190)"/>
+    <path d="M 216 119 L 254 119 L 254 133 L 236 133 L 236 170 L 220 170 Z" fill="#111" transform="rotate(106 256 190)"/>
+    <path d="M 236 244 L 272 244 L 272 260 L 252 260 L 252 290 L 236 290 Z" fill="#111"/>
   </g>
   <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA L6-30R</text>
 </svg>

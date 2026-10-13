@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="NEMA L15-15R receptacle">
+  <title>NEMA L15-15R receptacle</title>
+  <g>
+    <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
+    <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
+
+    <path d="M 220 120 L 250 120 L 250 134 L 236 134 L 236 160 L 220 160 Z" fill="#111" transform="rotate(-28 256 190)"/>
+    <path d="M 220 120 L 250 120 L 250 134 L 236 134 L 236 160 L 220 160 Z" fill="#111" transform="rotate(92 256 190)"/>
+    <path d="M 220 120 L 250 120 L 250 134 L 236 134 L 236 160 L 220 160 Z" fill="#111" transform="rotate(212 256 190)"/>
+  </g>
+  <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA L15-15R</text>
+</svg>
