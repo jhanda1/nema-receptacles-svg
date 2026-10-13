@@ -1,7 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="NEMA 5-20R receptacle">
-  <rect width="512" height="512" fill="#f3f3f0"/>
-  <rect x="72" y="82" width="368" height="298" rx="32" fill="#f8f8f6" stroke="#1f1f1f" stroke-width="8"/>
-  <rect x="130" y="176" width="96" height="28" rx="8" fill="#17191c"/><rect x="134.48000000000002" y="185.0" width="87.03999999999999" height="10" rx="4" fill="#f5f5f1"/><rect x="170.0" y="152" width="16" height="24" rx="8" fill="#17191c"/><rect x="170.0" y="204" width="16" height="24" rx="8" fill="#17191c"/><rect x="174.0" y="158" width="8" height="18" rx="5" fill="#f5f5f1"/><rect x="174.0" y="210" width="8" height="18" rx="5" fill="#f5f5f1"/><rect x="266" y="176" width="96" height="28" rx="8" fill="#17191c"/><rect x="272.0" y="185.0" width="84" height="10" rx="4" fill="#f5f5f1"/><path d="M 220 236 a 30.0 42.0 0 0 1 60 0 v 66 h -30.0 a 12.0 24.0 0 0 0 -30.0 0 h -30.0 z" fill="#17191c"/><rect x="238" y="258" width="24" height="48" rx="8" fill="#f5f5f1"/>
-  <text x="256" y="430" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#15171a">NEMA 5-20R</text>
-  <text x="256" y="458" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5d6167">125V • 20A</text>
+  <title>NEMA 5-20R receptacle</title>
+  <g>
+    <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
+    <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
+    <rect x="206.0" y="142.0" width="16.0" height="56.0" rx="7.0" fill="#111"/>
+    <rect x="192.0" y="162.0" width="44.0" height="16.0" rx="7.0" fill="#111"/>
+    <rect x="290.0" y="141.0" width="16.0" height="58.0" rx="7.0" fill="#111"/>
+    <path d="M 242.0 242.0 V 260.0 A 14.0 14.0 0 0 0 270.0 260.0 V 242.0" fill="none" stroke="#111" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA 5-20R</text>
 </svg>
