@@ -4,12 +4,12 @@
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
     <!-- Left: T-shaped neutral slot (vertical bar + horizontal foot at top) -->
-    <rect x="198.0" y="140.0" width="16.0" height="60.0" rx="7.0" fill="#111"/>
-    <rect x="176.0" y="140.0" width="38.0" height="16.0" rx="7.0" fill="#111"/>
+    <rect x="198.0" y="144.0" width="16.0" height="58.0" rx="7.0" fill="#111"/>
+    <rect x="176.0" y="144.0" width="38.0" height="16.0" rx="7.0" fill="#111"/>
     <!-- Right: straight vertical hot slot -->
-    <rect x="290.0" y="140.0" width="16.0" height="60.0" rx="7.0" fill="#111"/>
+    <rect x="290.0" y="144.0" width="16.0" height="58.0" rx="7.0" fill="#111"/>
     <!-- D-shaped ground (flat top, rounded bottom) -->
-    <path d="M 240.0 240.0 V 258.0 A 16.0 16.0 0 0 0 272.0 258.0 V 240.0 Z" fill="#111"/>
+    <path d="M 240.0 238.0 V 256.0 A 16.0 16.0 0 0 0 272.0 256.0 V 238.0 Z" fill="#111"/>
   </g>
   <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA 5-20R</text>
 </svg>

@@ -3,9 +3,14 @@
   <g>
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
-    <path d="M 186.0 150.0 A 90.0 90.0 0 0 1 244.5 116.0 L 249.0 131.8 A 74.0 74.0 0 0 0 201.5 162.0 Z" fill="#111"/>
-    <path d="M 332.0 187.5 A 90.0 90.0 0 0 1 312.0 250.0 L 298.0 242.7 A 74.0 74.0 0 0 0 317.0 191.7 Z" fill="#111"/>
-    <path d="M 243.0 272.0 A 34.0 34.0 0 0 1 279.0 272.0 L 279.0 246.0 A 34.0 34.0 0 0 0 243.0 246.0 Z" fill="#111"/>
+    <!-- Three curved crescent slots, larger arc radius (82) to key apart from L6-20R. Ground crescent carries a short radial locking tab. -->
+    <!-- Upper hot crescent -->
+    <path d="M 214.0 112.8 A 82.0 82.0 0 0 1 298.0 112.8 L 298.0 130.8 A 64.0 64.0 0 0 0 214.0 130.8 Z" fill="#111"/>
+    <!-- Right ground crescent with short radial locking tab -->
+    <path d="M 335.6 152.0 A 82.0 82.0 0 0 1 320.0 249.0 L 307.9 235.4 A 64.0 64.0 0 0 0 320.1 159.6 Z" fill="#111"/>
+    <rect x="306.0" y="234.0" width="30.0" height="16.0" rx="7.0" fill="#111"/>
+    <!-- Lower-left hot crescent -->
+    <path d="M 192.0 249.0 A 82.0 82.0 0 0 1 176.4 152.0 L 191.9 159.6 A 64.0 64.0 0 0 0 204.1 235.4 Z" fill="#111"/>
   </g>
   <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA L6-30R</text>
 </svg>

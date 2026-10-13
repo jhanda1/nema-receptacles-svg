@@ -3,13 +3,18 @@
   <g>
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
-    <path d="M 182.0 170.0 A 77.0 77.0 0 0 1 228.8 125.9 L 234.6 139.3 A 63.0 63.0 0 0 0 194.0 175.1 Z" fill="#111"/>
-    <path d="M 330.0 170.0 A 77.0 77.0 0 0 1 283.2 125.9 L 277.4 139.3 A 63.0 63.0 0 0 0 318.0 175.1 Z" fill="#111"/>
-    <path d="M 330.0 210.0 A 77.0 77.0 0 0 1 283.2 254.1 L 277.4 240.7 A 63.0 63.0 0 0 0 318.0 204.9 Z" fill="#111"/>
-    <path d="M 182.0 210.0 A 77.0 77.0 0 0 1 228.8 254.1 L 234.6 240.7 A 63.0 63.0 0 0 0 194.0 204.9 Z" fill="#111"/>
-    <circle cx="256.0" cy="190.0" r="13.0" fill="#111"/>
-    <rect x="246.0" y="214.0" width="20.0" height="42.0" rx="8.0" fill="#111"/>
-    <rect x="168.0" y="138.0" width="18.0" height="25.0" rx="7.0" fill="#111" transform="rotate(-34 177 150)"/>
+    <!-- Four curved crescents evenly spaced around a center ground pin. Smaller arc radius (70) to key apart from L21-30R. -->
+    <!-- Top crescent -->
+    <path d="M 206.5 140.5 A 70.0 70.0 0 0 1 305.5 140.5 L 294.1 151.9 A 54.0 54.0 0 0 0 217.9 151.9 Z" fill="#111"/>
+    <!-- Right crescent -->
+    <path d="M 305.5 140.5 A 70.0 70.0 0 0 1 305.5 239.5 L 294.1 228.1 A 54.0 54.0 0 0 0 294.1 151.9 Z" fill="#111"/>
+    <!-- Bottom crescent with short radial locking tab -->
+    <path d="M 305.5 239.5 A 70.0 70.0 0 0 1 206.5 239.5 L 217.9 228.1 A 54.0 54.0 0 0 0 294.1 228.1 Z" fill="#111"/>
+    <rect x="248.0" y="228.0" width="16.0" height="26.0" rx="7.0" fill="#111"/>
+    <!-- Left crescent -->
+    <path d="M 206.5 239.5 A 70.0 70.0 0 0 1 206.5 140.5 L 217.9 151.9 A 54.0 54.0 0 0 0 217.9 228.1 Z" fill="#111"/>
+    <!-- Center ground pin -->
+    <circle cx="256" cy="190" r="12" fill="#111"/>
   </g>
   <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA L21-20R</text>
 </svg>

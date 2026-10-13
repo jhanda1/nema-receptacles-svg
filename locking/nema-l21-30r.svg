@@ -3,13 +3,18 @@
   <g>
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
-    <path d="M 181.0 170.0 A 81.0 81.0 0 0 1 221.1 128.3 L 227.3 141.5 A 67.0 67.0 0 0 0 192.8 176.3 Z" fill="#111"/>
-    <path d="M 331.0 170.0 A 81.0 81.0 0 0 1 290.9 128.3 L 284.7 141.5 A 67.0 67.0 0 0 0 319.2 176.3 Z" fill="#111"/>
-    <path d="M 331.0 210.0 A 81.0 81.0 0 0 1 290.9 251.7 L 284.7 238.5 A 67.0 67.0 0 0 0 319.2 203.7 Z" fill="#111"/>
-    <path d="M 181.0 210.0 A 81.0 81.0 0 0 1 221.1 251.7 L 227.3 238.5 A 67.0 67.0 0 0 0 192.8 203.7 Z" fill="#111"/>
-    <circle cx="256.0" cy="190.0" r="13.0" fill="#111"/>
-    <rect x="246.0" y="214.0" width="20.0" height="42.0" rx="8.0" fill="#111"/>
-    <rect x="168.0" y="138.0" width="18.0" height="25.0" rx="7.0" fill="#111" transform="rotate(-34 177 150)"/>
+    <!-- Four curved crescents evenly spaced around a center ground pin (arc radius 80). One blade carries a short radial locking tab. -->
+    <!-- Top crescent (-135 to -45 deg) -->
+    <path d="M 199.4 133.4 A 80.0 80.0 0 0 1 312.6 133.4 L 301.3 144.7 A 64.0 64.0 0 0 0 210.7 144.7 Z" fill="#111"/>
+    <!-- Right crescent (-45 to 45 deg) -->
+    <path d="M 312.6 133.4 A 80.0 80.0 0 0 1 312.6 246.6 L 301.3 235.3 A 64.0 64.0 0 0 0 301.3 144.7 Z" fill="#111"/>
+    <!-- Bottom crescent (45 to 135 deg) with short radial locking tab -->
+    <path d="M 312.6 246.6 A 80.0 80.0 0 0 1 199.4 246.6 L 210.7 235.3 A 64.0 64.0 0 0 0 301.3 235.3 Z" fill="#111"/>
+    <rect x="248.0" y="235.0" width="16.0" height="28.0" rx="7.0" fill="#111"/>
+    <!-- Left crescent (135 to 225 deg) -->
+    <path d="M 199.4 246.6 A 80.0 80.0 0 0 1 199.4 133.4 L 210.7 144.7 A 64.0 64.0 0 0 0 210.7 235.3 Z" fill="#111"/>
+    <!-- Center ground pin -->
+    <circle cx="256" cy="190" r="13" fill="#111"/>
   </g>
   <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA L21-30R</text>
 </svg>
