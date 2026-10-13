@@ -4,13 +4,10 @@
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
 
-    <!-- Three evenly spaced partial-arc keying notches, ~1/6 circumference each -->
-    <path d="M 256 118 A 52 52 0 0 1 318 150" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round"/>
-    <path d="M 183 208 A 52 52 0 0 1 208 287" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round"/>
-    <path d="M 329 208 A 52 52 0 0 0 304 287" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round"/>
-
-    <!-- Ground -->
-    <path d="M 240 238 V 256 A 16 16 0 0 0 272 256 V 238 Z" fill="#111"/>
+    <!-- Three evenly spaced partial-arc keying notches; no ground slot on L-series -->
+    <path d="M 256 118 A 56 56 0 0 1 318 150" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round"/>
+    <path d="M 178 206 A 56 56 0 0 1 204 282" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round"/>
+    <path d="M 334 206 A 56 56 0 0 0 308 282" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round"/>
   </g>
   <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA L6-20R</text>
 </svg>
