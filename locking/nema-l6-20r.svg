@@ -4,11 +4,10 @@
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
 
-    <!-- Left curved keying slot -->
-    <path d="M 196 150 A 52 52 0 0 1 196 246" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
-
-    <!-- Right curved keying slot -->
-    <path d="M 316 150 A 52 52 0 0 0 316 246" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Three evenly spaced partial-arc keying notches, ~1/6 circumference each -->
+    <path d="M 256 118 A 52 52 0 0 1 318 150" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round"/>
+    <path d="M 183 208 A 52 52 0 0 1 208 287" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round"/>
+    <path d="M 329 208 A 52 52 0 0 0 304 287" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round"/>
 
     <!-- Ground -->
     <path d="M 240 238 V 256 A 16 16 0 0 0 272 256 V 238 Z" fill="#111"/>
