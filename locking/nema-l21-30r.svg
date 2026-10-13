@@ -3,18 +3,11 @@
   <g>
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
-    <!-- Four curved crescents evenly spaced around a center ground pin (arc radius 80). One blade carries a short radial locking tab. -->
-    <!-- Top crescent (-135 to -45 deg) -->
-    <path d="M 199.4 133.4 A 80.0 80.0 0 0 1 312.6 133.4 L 301.3 144.7 A 64.0 64.0 0 0 0 210.7 144.7 Z" fill="#111"/>
-    <!-- Right crescent (-45 to 45 deg) -->
-    <path d="M 312.6 133.4 A 80.0 80.0 0 0 1 312.6 246.6 L 301.3 235.3 A 64.0 64.0 0 0 0 301.3 144.7 Z" fill="#111"/>
-    <!-- Bottom crescent (45 to 135 deg) with short radial locking tab -->
-    <path d="M 312.6 246.6 A 80.0 80.0 0 0 1 199.4 246.6 L 210.7 235.3 A 64.0 64.0 0 0 0 301.3 235.3 Z" fill="#111"/>
-    <rect x="248.0" y="235.0" width="16.0" height="28.0" rx="7.0" fill="#111"/>
-    <!-- Left crescent (135 to 225 deg) -->
-    <path d="M 199.4 246.6 A 80.0 80.0 0 0 1 199.4 133.4 L 210.7 144.7 A 64.0 64.0 0 0 0 210.7 235.3 Z" fill="#111"/>
-    <!-- Center ground pin -->
-    <circle cx="256" cy="190" r="13" fill="#111"/>
+
+    <!-- Three evenly spaced partial-arc keying notches; no ground slot on L-series -->
+    <path d="M 256 118 A 58 58 0 0 1 314 150" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round"/>
+    <path d="M 170 200 A 58 58 0 0 1 198 276" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round"/>
+    <path d="M 342 200 A 58 58 0 0 0 314 276" fill="none" stroke="#111" stroke-width="18" stroke-linecap="round"/>
   </g>
   <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA L21-30R</text>
 </svg>
