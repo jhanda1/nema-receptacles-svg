@@ -3,9 +3,11 @@
   <g>
     <circle cx="256" cy="190" r="152" fill="#fff" stroke="#111" stroke-width="10"/>
     <circle cx="256" cy="190" r="132" fill="none" stroke="#111" stroke-width="2"/>
-    <rect x="206.0" y="141.0" width="16.0" height="58.0" rx="7.0" fill="#111"/>
-    <rect x="290.0" y="141.0" width="16.0" height="58.0" rx="7.0" fill="#111"/>
-    <path d="M 242.0 242.0 V 260.0 A 14.0 14.0 0 0 0 270.0 260.0 V 242.0" fill="none" stroke="#111" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Two parallel vertical slots (neutral left slightly taller, hot right) -->
+    <rect x="214.0" y="140.0" width="16.0" height="62.0" rx="7.0" fill="#111"/>
+    <rect x="282.0" y="144.0" width="16.0" height="54.0" rx="7.0" fill="#111"/>
+    <!-- D-shaped ground (flat top, rounded bottom) -->
+    <path d="M 240.0 238.0 V 256.0 A 16.0 16.0 0 0 0 272.0 256.0 V 238.0 Z" fill="#111"/>
   </g>
   <text x="256" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111">NEMA 5-15R</text>
 </svg>
